@@ -7,6 +7,9 @@ Ubuntu20.04
 
 Raspberry Pi 4(ubuntu os)
 # 実行方法
+``` 
+ roscore &
+``` 
 ```
 chmod +x count.py
 ```
